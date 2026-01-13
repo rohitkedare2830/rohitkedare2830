@@ -1,14 +1,35 @@
-👋 Hi, I’m Rohit
+👋 Hi, I'm Rohit Kedare
 
-AI/ML Engineer Trainee | Data Scientist | Data Analyst
+🚀 Software Engineer | Machine Learning Engineer | Python | APIs | Cloud | Data Engineering  
 
-I work with Python, Machine Learning, Deep Learning, SQL, and Power BI to build data-driven solutions. I enjoy creating projects that turn raw data into meaningful insights and deploying models that solve real problems.
+I build scalable backend systems and machine learning solutions with real-world impact. Passionate about automation, clean architecture, and continuous learning.
 
-🔭 Currently learning: Artificial Intelligence Engineer (Certification Program) — DataMites, Pune (On-site)
+---
 
-📊 Interested in: AI Engineering, Machine Learning, deep Learning, Data Science, and Analytics
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, Bash  
+- **Backend:** FastAPI, REST APIs  
+- **ML:** Scikit-learn, TensorFlow, XGBoost  
+- **Data:** Pandas, NumPy, Power BI  
+- **Cloud:** API Deployment, CI/CD Basics  
+- **Tools:** Git, Linux, Jupyter  
 
-💼 Open to internships & full-time opportunities — Immediate Joiner
+---
 
-📫 Reach me: rohitkedare12@gmail.com
+## 📌 Featured Projects
+🔹 [Restaurant Rating Recommendation Engine](https://github.com/rohitkedare2830/restaurant-rating-recommendation-engine)  
+🔹 [Lung Disease Diagnosis ML System](https://github.com/rohitkedare2830/lung-disease-diagnosis-ml-system)  
+🔹 [Customer Churn Prediction ML Pipeline](https://github.com/rohitkedare2830/customer-churn-prediction-ml-pipeline)  
 
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitkedare2830&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: rohitkedare12@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/rohit-kedare-a552a11b4  
+
+⭐ Always open to learning, collaboration, and new opportunities.
