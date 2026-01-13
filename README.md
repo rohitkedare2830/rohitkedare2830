@@ -1,6 +1,31 @@
-👋 Hi, I'm Rohit Kedare
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-green" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-brightgreen" />
+  <img src="https://img.shields.io/badge/Linux-Bash-orange" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success" />
+</p>
 
-🚀 Software Engineer | Machine Learning Engineer | Python | APIs | Cloud | Data Engineering  
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rohitkedare2830?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/rohitkedare2830?label=Stars&style=social" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkedare2830&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkedare2830" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,linux,git,docker,mysql" />
+</p>
+
+# 👋 Hi, I'm Rohit Kedare
+
+🚀 **Software Engineer & Machine Learning Engineer | Python | FastAPI | Cloud | ML Systems | Open to Opportunities**
 
 I build scalable backend systems and machine learning solutions with real-world impact. Passionate about automation, clean architecture, and continuous learning.
 
@@ -23,13 +48,8 @@ I build scalable backend systems and machine learning solutions with real-world 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitkedare2830&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: rohitkedare12@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/rohit-kedare-a552a11b4  
 
-⭐ Always open to learning, collaboration, and new opportunities.
+⭐ Feel free to explore my projects or reach out for collaboration and opportunities.
