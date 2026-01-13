@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitkedare2830&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkedare2830&show_icons=true" />
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,linux,git,docker,mysql" />
 </p>
+
 
 # 👋 Hi, I'm Rohit Kedare
 
