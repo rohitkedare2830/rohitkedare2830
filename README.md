@@ -16,10 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohitkedare2830&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkedare2830" />
 </p>
 
