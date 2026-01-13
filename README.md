@@ -1,3 +1,8 @@
+<!-- 🎯 AUTO ROTATING BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=220&section=header&text=Rohit%20Kedare&fontSize=48&fontAlignY=40&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Cloud&descAlignY=65&animation=fadeIn" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Hi+I'm+Rohit+Kedare;Data+Scientist+%7C+ML+Engineer;Python+%7C+FastAPI+%7C+Cloud;Building+Intelligent+Systems;Open+to+Opportunities" />
 </p>
