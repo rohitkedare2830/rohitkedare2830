@@ -24,9 +24,9 @@
 </p>
 
 
-# 👋 Hi, I'm Rohit Kedare
+#  Hi, I'm Rohit Kedare
 
-🚀 **Data Scientist & Machine Learning Engineer | Python | FastAPI | Cloud | ML Systems | Open to Opportunities**
+ **Data Scientist & Machine Learning Engineer | Python | FastAPI | Cloud | ML Systems | Open to Opportunities**
 
 I build scalable backend systems and machine learning solutions with real-world impact. Passionate about automation, clean architecture, and continuous learning.
 
