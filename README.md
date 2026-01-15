@@ -54,6 +54,14 @@ I build scalable backend systems and machine learning solutions with real-world 
 
 ---
 
+## 🐍 My GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/rohitkedare2830/rohitkedare2830/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 - 📧 Email: rohitkedare12@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/rohit-kedare-a552a11b4  
