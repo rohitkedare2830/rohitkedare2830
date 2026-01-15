@@ -4,6 +4,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/rohitkedare2830/rohitkedare2830/raw/main/Rohit_Kedare_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-red?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Hi+I'm+Rohit+Kedare;Data+Scientist+%7C+ML+Engineer;Python+%7C+FastAPI+%7C+Cloud;Building+Intelligent+Systems;Open+to+Opportunities" />
 </p>
 
